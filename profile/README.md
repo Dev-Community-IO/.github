@@ -14,4 +14,4 @@ We're committed to transparency, collaboration, and open access to knowledge. Ev
 
 ---
 
-*Building the future of developer communities, one contribution at a time.
+*Building the future of developer communities, one contribution at a time.*
